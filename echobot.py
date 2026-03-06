@@ -1,6 +1,6 @@
 import streamlit as st
 
-with st.chat_message("Robot"):
+with st.chat_message("User"):
     st.write("Hello 👋")
 
 import streamlit as st
