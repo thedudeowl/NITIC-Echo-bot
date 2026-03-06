@@ -1,7 +1,7 @@
 import streamlit as st
 
 with st.chat_message("assistant"):
-    st.write("K 👋")
+    st.write("Hello 👋")
 
 import streamlit as st
 import numpy as np
